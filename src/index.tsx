@@ -1,15 +1,3 @@
-import { SortableItem } from './components/SortableList/SortableItem';
-import {
-  SortableList,
-  SortableItemProps,
-  ItemRenderProps,
-  ChildrenProps,
-} from './components/SortableList/SortableList';
+import Welcome from './components/Welcome/Welcome';
 
-export {
-  SortableList,
-  SortableItem,
-  SortableItemProps,
-  ItemRenderProps,
-  ChildrenProps,
-};
+export { Welcome };

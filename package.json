@@ -1,7 +1,7 @@
 {
-  "name": "@thaddeusjiang/react-sortable-list",
+  "name": "@thaddeusjiang/react-component-starter",
   "author": "Thaddeus Jiang",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,14 +34,14 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "module": "dist/react-sortable-list.esm.js",
+  "module": "dist/react-component-starter.esm.js",
   "size-limit": [
     {
-      "path": "dist/react-sortable-list.cjs.production.min.js",
+      "path": "dist/react-component-starter.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/react-sortable-list.esm.js",
+      "path": "dist/react-component-starter.esm.js",
       "limit": "10 KB"
     }
   ],
@@ -75,25 +75,21 @@
     "tslib": "^2.3.1",
     "typescript": "^4.6.3"
   },
-  "dependencies": {
-    "@dnd-kit/core": "^5.0.3",
-    "@dnd-kit/sortable": "^6.0.1"
-  },
+  "dependencies": {},
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/ThaddeusJiang/react-sortable-list#readme",
+  "homepage": "https://github.com/ThaddeusJiang/react-component-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThaddeusJiang/react-sortable-list.git"
+    "url": "git+https://github.com/ThaddeusJiang/react-component-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/ThaddeusJiang/react-sortable-list/issues"
+    "url": "https://github.com/ThaddeusJiang/react-component-starter/issues"
   },
   "keywords": [
     "React",
-    "Sortable List",
-    "Drag and Drop",
-    "@dnd-kit"
+    "Starter",
+    "Components"
   ]
 }

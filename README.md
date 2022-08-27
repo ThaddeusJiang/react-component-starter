@@ -10,7 +10,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/ThaddeusJiang/react-component-starter/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/ThaddeusJiang/@thaddeusjiang/react-component-starter" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/ThaddeusJiang/react-component-starter" />
   </a>
   <a href="https://twitter.com/ThaddeusJiang" target="_blank">
     <img alt="Twitter: ThaddeusJiang" src="https://img.shields.io/twitter/follow/ThaddeusJiang.svg?style=social" />

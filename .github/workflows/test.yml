@@ -28,7 +28,7 @@ jobs:
         shell: bash
         run: |
           pushd './'
-          yarn install
-          yarn build
-          yarn test
+          npm install
+          npm run build
+          npm run test
           popd

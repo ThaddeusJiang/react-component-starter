@@ -1,3 +1,3 @@
-import Welcome from './components/Welcome/Welcome';
+import { Button } from './components/Button';
 
-export { Welcome };
+export { Button };
